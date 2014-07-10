@@ -22,4 +22,4 @@ trip-calculator
 output: you are driving 1000 miles
         it will cost you " "
         you need to stop and fill up " " times
-
+edits ahoy!
